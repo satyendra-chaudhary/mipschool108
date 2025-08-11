@@ -37,16 +37,11 @@ I'm a passionate **Full-Stack Web Developer** currently pursuing my **BCA** degr
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyendrachaudhary&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyendrachaudhary&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🚧 Current Projects
 
-- 🔨 **[School Management System](https://github.com/satyendrachaudhary/school-management-system)** - A comprehensive web-based school management solution (Currently in development)
+- 🔨 **[School Management System](https://github.com/satyendrachaudhary143/school-management-system)** - A comprehensive web-based school management solution (Currently in development)
 - 🌐 **[Personal Portfolio](https://satyendra-theta.vercel.app/)** - My professional portfolio website
 
 ## 📚 Education
@@ -87,11 +82,7 @@ I'm a passionate **Full-Stack Web Developer** currently pursuing my **BCA** degr
 - 🌱 **Learning**: Advanced React patterns, TypeScript, and cloud deployment
 - 👨‍💻 **Next Goal**: AI/ML Development and Machine Learning projects
 
-## 📈 Recent Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyendrachaudhary&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
 
 ## 🏆 Achievements
 
